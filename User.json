@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lumoshive",
+    "username": "lumo",
+    "password": "1234",
+    "noRek": "1231531",
+    "saldo": 500000,
+    "bank": { "name": "BCA", "feeTransfer": 5000, "fee": 10000 }
+  },
+  {
+    "name": "Fernando",
+    "username": "do",
+    "password": "1234",
+    "noRek": "1231532",
+    "saldo": 100000,
+    "bank": { "name": "Mandiri", "feeTransfer": 2000, "fee": 5000 }
+  },
+  {
+    "name": "Academy",
+    "username": "academy",
+    "password": "1234",
+    "noRek": "1231533",
+    "saldo": 0,
+    "bank": { "name": "CIMB", "feeTransfer": 3000, "fee": 15000 }
+  }
+]
